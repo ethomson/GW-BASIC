@@ -1,0 +1,6 @@
+*.md text=auto
+LICENSE text=auto
+
+GIO86U -text
+*.ASM -text linguist-language=assembly
+OEM.H -text
